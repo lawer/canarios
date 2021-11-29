@@ -1,0 +1,14 @@
+{
+  "canarios": [
+    {
+    "id": 1,
+    "color": "amarillo",
+    "raza": "europea"
+    },
+    {
+      "id": 2,
+      "color": "rojo",
+      "raza": "australiana"
+    }
+  ]
+}
